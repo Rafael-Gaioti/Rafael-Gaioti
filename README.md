@@ -7,11 +7,10 @@ I discovered programming at the age of 13 and from then on I knew that this was 
 and ToPAS-lx at NOVA University of Lisbon
 
 
-## 🛠 Tecnologias e Ferramentas
+## 🛠 Technologies && Tools
 - **Linguagens**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks e Bibliotecas**: Angular, Node.js
-- **Banco de Dados**: MongoDB
-- **Ferramentas e Plataformas**: Git, Docker
+- **Frameworks and Libraries**: Angular, Node.js
+- **Data Base**: MongoDB
 
 ## 🚀 Featured Projects
 Here are some of my most notable projects:
